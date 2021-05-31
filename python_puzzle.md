@@ -1,0 +1,3 @@
+## Python puzzle notes
+
+ada
